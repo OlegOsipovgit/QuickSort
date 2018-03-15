@@ -1,0 +1,16 @@
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\UnitTestQuickSort.dll
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\UnitTestQuickSort.pdb
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\QuickSort.dll
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\QuickSort.pdb
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\obj\Debug\UnitTestQuickSort.csprojResolveAssemblyReference.cache
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\obj\Debug\UnitTestQuickSort.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\obj\Debug\UnitTestQuickSort.csproj.CopyComplete
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\obj\Debug\UnitTestQuickSort.dll
+C:\Users\Ольга\source\repos\QuickSort\UnitTestQuickSort\obj\Debug\UnitTestQuickSort.pdb
