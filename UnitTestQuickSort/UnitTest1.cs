@@ -15,7 +15,7 @@ namespace UnitTestQuickSort
 
             QuickSorting a = new QuickSorting();
             int[] actual = QuickSorting.Sorting(array,0,array.Length-1);
-            Assert.AreEqual(expected,actual);
+            CollectionAssert.AreEqual(expected,actual);
         }
     }
 }
